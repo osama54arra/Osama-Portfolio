@@ -1,0 +1,37 @@
+@media (max-width:991px) {
+    .navbar-brand img{
+      display: none !important;
+    }
+    .nav-item{
+      width: fit-content !important;
+    }
+    }
+    @media (max-width:768px) {
+        .about .count{
+            border: none !important;
+        }
+        .download-resume .brands{
+            justify-content: center !important;
+            text-align:center;
+            margin-bottom: 2rem;
+        }
+        }
+    @media (max-width:568px){
+      .header{
+          background-position-x: -250px !important;
+      } 
+      .header  .header-content p{
+        margin-right:45px ;
+        align-items: start !important;
+      }
+      .header  .header-content span{
+        margin-right: 245px;
+        align-items: start !important;
+      }
+      h1{
+        font: size 44px !important;
+      }
+      .contact form p{
+        width: 100% !important;
+      }
+    }
