@@ -7,7 +7,7 @@ This template is designed to help developers, designers, or freelancers showcase
 This project serves as a ready-to-use portfolio template featuring multiple sections including Home, About, Services, Portfolio, Resume, and Contact. It is fully responsive and provides a smooth user experience across all devices.
 
 View the repo linked to netlify
-jocular-douhua-6de2c2.netlify.app
+[jocular-douhua-6de2c2.netlify.app](https://jocular-douhua-6de2c2.netlify.app/)
 
 🛠️ Built With
 HTML5
